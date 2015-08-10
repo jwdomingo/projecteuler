@@ -4,6 +4,7 @@ problem: 1
 title:  "Multiples of 3 and 5"
 date:   2015-08-09 19:37:36
 categories: javascript
+permalink: /01
 ---
 ## **Problem {{ page.problem }}**
 
