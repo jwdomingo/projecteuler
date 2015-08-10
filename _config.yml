@@ -8,4 +8,6 @@ github_username:  jwdomingo
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 permalink: /:title
