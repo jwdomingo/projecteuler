@@ -16,9 +16,11 @@ permalink: /01
 ## **Solution**
 
 ```javascript
-var mult_3_5 = "Hello";
+var sum = 0;
 
-if ( var == "Gododbye" ) {
-  document.write("Uh oh!");
+for ( var i = 0; i < 1000; i++ ) {
+  if ( i % 3 == 0 || i % 5 == 0 ) {
+    sum+= i;
+  }
 }
 ```
