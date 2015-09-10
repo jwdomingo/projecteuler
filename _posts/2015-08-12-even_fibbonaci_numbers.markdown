@@ -4,7 +4,7 @@ problem: 2
 title:  "Even Fibbonaci Numbers"
 date:   2015-08-12 2:26:42
 categories: javascript
-permalink: /01
+permalink: /02
 ---
 
 ## **Problem**
